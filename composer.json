@@ -1,0 +1,13 @@
+{
+    "name": "marcin/prezka_ai",
+    "authors": [
+        {
+            "name": "Marcin Lawniczak",
+            "email": "marcin@lawniczak.me"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.17",
+        "bacon/bacon-qr-code": "^2.0"
+    }
+}
